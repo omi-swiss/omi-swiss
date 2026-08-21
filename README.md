@@ -2,7 +2,7 @@
 
 # Omar Hamzic
 
-### Data Engineer · Analytics Builder · Applied ML Practitioner
+### Analytics Builder · Data Engineer · Applied ML Practitioner
 
 I build reliable data systems that turn messy signals into useful decisions.
 
