@@ -21,6 +21,12 @@ My background in **applied mathematics, economics, marketing science, and custom
 
 ## Featured work
 
+### 🗺️ [Neighborhood Investment Intelligence](https://github.com/omi-swiss/neighborhood-investment-intelligence) · Latest
+
+A reproducible U.S. neighborhood-fundamentals data product that combines census, employment, housing, and public-safety sources into lineage-rich, as-of tract profiles while keeping uncertainty and geographic resolution visible.
+
+`Python` `DuckDB` `PostGIS` `Parquet` `Census APIs`
+
 ### 🃏 [Pokémon TCG Market Intelligence](https://github.com/omi-swiss/db-pokemon-prediction-model)
 
 A Databricks lakehouse that combines card metadata and multi-market pricing, engineers market features, and compares explainable rules with a PySpark ML valuation baseline to surface potential mispricing signals.
@@ -39,12 +45,6 @@ An end-to-end workflow that uses Snowflake-based feature preparation, model comp
 
 `Snowflake` `AWS SageMaker` `XGBoost` `scikit-learn` `Python`
 
-### 🎯 [Customer Propensity Modeling](https://github.com/omi-swiss/Customer-Propensity-Model)
-
-A customer analytics project that turns e-commerce behavior into RFM segments, behavioral clusters, and purchase-propensity signals for more focused marketing decisions.
-
-`Python` `pandas` `scikit-learn` `K-Means` `RFM`
-
 ## Toolbox
 
 <p>
@@ -53,6 +53,8 @@ A customer analytics project that turns e-commerce behavior into RFM segments, b
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
   <img alt="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square">
+  <img alt="DuckDB" src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=111827">
+  <img alt="PostGIS" src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white">
   <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
@@ -68,6 +70,7 @@ A customer analytics project that turns e-commerce behavior into RFM segments, b
 
 ## More projects
 
+- [Customer Propensity Modeling](https://github.com/omi-swiss/Customer-Propensity-Model) — RFM segmentation, behavioral clustering, and purchase-propensity signals.
 - [Restaurant Price Optimization](https://github.com/omi-swiss/ML-Price-Optimization) — demand elasticity and product-level pricing analysis.
 - [Avocado Price Forecasting](https://github.com/omi-swiss/ML-Price-Prediction) — regression and time-series approaches to retail price forecasting.
 - [Customer Churn Modeling](https://github.com/omi-swiss/ChurnModel-Using-DecisionTrees) — interpretable classification and retention-focused analysis.
